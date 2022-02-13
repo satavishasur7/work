@@ -59,6 +59,7 @@ form{
   display: flex;
   width: 100%;
   align-items: center;
+  /*new change */
   flex-direction: row;
   justify-content:space-around;
   padding: 10px;
